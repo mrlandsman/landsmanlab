@@ -71,7 +71,7 @@ author:
   bio    : "Postdoc at the ALS using x-rays to study water treatment materials."
   links:
     - label: "Berkeley, California"
-      icon: "fab fa-fw fa-map-marker"
+      icon: "fas fa-fw fa-map-marker"
       url: "https://www.google.com/maps/place/Berkeley,+CA/@37.8711583,-122.3364571,13z/data=!3m1!4b1!4m5!3m4!1s0x808579363a8549d3:0x94ea1595a675e993!8m2!3d37.8715226!4d-122.273042"
     - label: "mrlandsman@lbl.gov"
       icon: "fas fa-fw fa-envelope"
