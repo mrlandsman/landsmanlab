@@ -1,16 +1,17 @@
 ---
 layout: splash
 permalink: /research/
-hidden: true
+#hidden: true
 header:
   overlay_color: "#5e616c"
+  overlay_filter: "0.5"
   overlay_image: /assets/images/mrl_headshot.png
 #  actions:
 #    - label: "<i class='fas fa-download'></i> Install now"
 #      url: "/docs/quick-start-guide/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+  I study water treatment materials using x-rays.<br />
+  <small><a href="https://scholar.google.com/citations?user=jauk6jtTsOAC&hl=en&oi=ao>Google Scholar Profile>
 
 
 
@@ -35,10 +36,7 @@ feature_row1:
       btn_class: "btn--primary"
 
 
-
-
-
-
 ---
+
 {% include feature_row2 type="left" %}
 {% include feature_row1 type="left" %}
