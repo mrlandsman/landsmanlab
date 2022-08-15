@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /research/
-#hidden: true
+hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5"
@@ -12,8 +12,6 @@ header:
 excerpt: >
   I study water treatment materials using x-rays.<br />
   <small><a href="https://scholar.google.com/citations?user=jauk6jtTsOAC&hl=en&oi=ao>Google Scholar Profile>
-
-
 
 
 feature_row2:
