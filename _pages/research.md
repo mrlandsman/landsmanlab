@@ -18,7 +18,6 @@ excerpt: >
   <small>[My Google Scholar Page](https://scholar.google.com/citations?user=jauk6jtTsOAC&hl=en&oi=ao)
   <br />
   <br />
-  <br />
 
 feature_row2:
   - image_path: /assets/images/home_item1.png
