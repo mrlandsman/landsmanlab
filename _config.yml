@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 remote_theme              : mmistakes/minimal-mistakes
-minimal_mistakes_skin     : "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin     : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # Site Settings
@@ -68,7 +68,7 @@ plugins:
 author:
   name   : "Matthew R Landsman"
   avatar : "/assets/images/mrl_headshot.png"
-  bio    : "Postdoc at the ALS using x-rays to study water treatment materials."
+  bio    : "Postdoc at the ALS studying water treatment materials using x-rays."
   links:
     - label: "Berkeley, California"
       icon: "fas fa-fw fa-map-marker-alt"
