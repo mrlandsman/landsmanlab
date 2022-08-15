@@ -15,8 +15,8 @@ excerpt: >
 
 
 
-feature_row_left:
-      - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+feature_row2:
+      - image_path: /assets/images/home_item1.png
         alt: "placeholder image 2"
         title: "Placeholder Image Left Aligned"
         excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
@@ -25,8 +25,8 @@ feature_row_left:
         btn_class: "btn--primary"
 
 
-feature_row_left:
-    - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+feature_row1:
+    - image_path: /assets/images/home_item1.png
       alt: "placeholder image 2"
       title: "Placeholder Image Left Aligned"
       excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
@@ -40,5 +40,5 @@ feature_row_left:
 
 
 ---
-
-{% include feature_row_left type="center" %}
+{% include feature_row2 type="left" %}
+{% include feature_row1 type="left" %}
