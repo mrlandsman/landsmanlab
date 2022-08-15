@@ -28,9 +28,9 @@ description               : Matthew R Landsman's personal website
 url                       : "https://mrlandsman.github.io/landsmanlab"
 repository                : "mrlandsman/landsmanlab.github.io"
 #baseurl                   : "landsmanlab"
-twitter_username: mrlandsman
-github_username: mrlandsman
-search: true
+twitter_username          : mrlandsman
+github_username           : mrlandsman
+search                    : true
 
 # Build settings
 markdown: kramdown
@@ -82,27 +82,27 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/mrlandsman"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/"
+#    - label: "LinkedIn"
+#      icon: "fab fa-fw fa-linkedin-in"
+#      url: "https://www.linkedin.com/"
     - label: "Curriculum Vitae (PDF)"
       icon: "fas fa-fw fa-file-pdf"
       url: "/landsmanlab/assets/files/2022_07_mrl_cv.pdf"
 
-footer:
-  links:
-    - label: "mrlandsman@lbl.gov"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:mrlandsman@lbl.gov
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=jauk6jtTsOAC&hl=en&oi=ao"
+#footer:
+#  links:
+#    - label: "mrlandsman@lbl.gov"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: mailto:mrlandsman@lbl.gov
+#    - label: "Google Scholar"
+#      icon: "fas fa-fw fa-graduation-cap"
+#      url: "https://scholar.google.com/citations?user=jauk6jtTsOAC&hl=en&oi=ao"
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: "https://github.com/mrlandsman"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/mrlandsman"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter"
+#      url: "https://twitter.com/mrlandsman"
 #    - label: "LinkedIn"
 #      icon: "fab fa-fw fa-linkedin-in"
 #      url: "https://www.linkedin.com/"
