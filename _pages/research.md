@@ -1,4 +1,5 @@
 ---
+title: "Research"
 layout: splash
 permalink: /research/
 hidden: true
