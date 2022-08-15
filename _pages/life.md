@@ -11,7 +11,7 @@ header:
 #    - label: "<i class='fas fa-download'></i> Install now"
 #      url: "/docs/quick-start-guide/"
 excerpt: >
-  I enjoy running. I have a dog. 
+  I enjoy running. I have a dog.
 
 feature_row2:
   - image_path: /assets/images/home_item1.png
