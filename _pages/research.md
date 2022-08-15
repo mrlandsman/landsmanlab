@@ -9,7 +9,7 @@ header:
 # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 
   overlay_filter: "0.5"
-  overlay_image: /assets/images/mrl_headshot.png
+  overlay_image: /assets/images/research_header.png
 #  actions:
 #    - label: "<i class='fas fa-download'></i> Install now"
 #      url: "/docs/quick-start-guide/"
