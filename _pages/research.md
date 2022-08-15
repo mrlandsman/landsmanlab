@@ -20,7 +20,7 @@ excerpt: >
   <br />
 
 feature_row2:
-  - image_path: /assets/images/home_item1.png
+  - image_path: /assets/images/research_header.png
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
@@ -30,7 +30,7 @@ feature_row2:
 
 
 feature_row1:
-  - image_path: /assets/images/home_item1.png
+  - image_path: /assets/images/research_header.png
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
