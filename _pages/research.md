@@ -14,7 +14,6 @@ excerpt: >
   I study water treatment materials using x-rays.<br />
   <small><a href="https://scholar.google.com/citations?user=jauk6jtTsOAC&hl=en&oi=ao>Google Scholar Profile>
 
-
 feature_row2:
   - image_path: /assets/images/home_item1.png
     alt: "placeholder image 2"
@@ -37,5 +36,5 @@ feature_row1:
 
 ---
 
-{% include feature_row2 type="left" %}
-{% include feature_row1 type="left" %}
+{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row1" type="left" %}
